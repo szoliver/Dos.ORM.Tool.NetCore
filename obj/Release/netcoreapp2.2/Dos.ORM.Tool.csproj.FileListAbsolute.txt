@@ -1,0 +1,11 @@
+/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/bin/Release/netcoreapp2.2/Dos.ORM.Tool.deps.json
+/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/bin/Release/netcoreapp2.2/Dos.ORM.Tool.runtimeconfig.json
+/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/bin/Release/netcoreapp2.2/Dos.ORM.Tool.runtimeconfig.dev.json
+/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/bin/Release/netcoreapp2.2/Dos.ORM.Tool.dll
+/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/bin/Release/netcoreapp2.2/Dos.ORM.Tool.pdb
+/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/obj/Release/netcoreapp2.2/Dos.ORM.Tool.csprojAssemblyReference.cache
+/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/obj/Release/netcoreapp2.2/Dos.ORM.Tool.csproj.CoreCompileInputs.cache
+/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/obj/Release/netcoreapp2.2/Dos.ORM.Tool.AssemblyInfoInputs.cache
+/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/obj/Release/netcoreapp2.2/Dos.ORM.Tool.AssemblyInfo.cs
+/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/obj/Release/netcoreapp2.2/Dos.ORM.Tool.dll
+/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/obj/Release/netcoreapp2.2/Dos.ORM.Tool.pdb

@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/Dos.ORM.Tool.csproj": {}
+  },
+  "projects": {
+    "/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/Dos.ORM.Tool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/Dos.ORM.Tool.csproj",
+        "projectName": "Dos.ORM.Tool",
+        "projectPath": "/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/Dos.ORM.Tool.csproj",
+        "packagesPath": "/home/hank/.nuget/packages/",
+        "outputPath": "/home/hank/Project/nobbus/authserver/Dos.ORM.Tool/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/hank/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Dos.Common": {
+              "target": "Package",
+              "version": "[2.92.0, )"
+            },
+            "Dos.ORM": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Dos.ORM.MySql": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
+            "System.CodeDom": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
