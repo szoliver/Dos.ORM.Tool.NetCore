@@ -1,5 +1,5 @@
 # Dos.Tool.NetCore
-DOS.ORM实体生成工具NetCore版
+DOS.ORM实体生成工具NetCore版 for mysql
 
 ## 关于RazorEngine的问题 
 现在我已经全线转到Linux平台下进行.Net开发，使用的是.NetCore<br>
