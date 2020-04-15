@@ -8,5 +8,5 @@ DOS.ORM实体生成工具NetCore版
  + 找到RazorEngine.NetCore，开始感觉很惊喜，最后很失望，抛出异常，无解，连Demo都过不了
  + 下载源码，发现它还引用了System.Runtime.Remoting，查资料被DotNet Core废弃
  + 但微软资料上3.0版本貌似可以查得到文档，以下版本直接提示不支持
-根据实践经验，模板几乎不用调整，所以干脆手写拼接。。。将模板功能彻底放弃<br>
-本源码基于Dotnet Core2.2，Ubutun19.04开发。
+ + 根据实践经验，模板几乎不用调整，所以干脆手写拼接。。。将模板功能彻底放弃<br>
+本源码基于Dotnet Core2.2，Ubutun19.10开发。
